@@ -1,3 +1,3 @@
 #!/usr/bin/sh
 echo "starting XMR miner"
-sleep 1
+sleep(1)
